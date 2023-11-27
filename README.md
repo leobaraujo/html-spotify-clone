@@ -1,6 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" width="128" />
-
-# HTML Spotify Clone
+# Spotify Clone
 
 Clone desenvolvido como projeto do curso [Desenvolvimento Web Completo - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/).
 
