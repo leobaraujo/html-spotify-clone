@@ -16,4 +16,4 @@ Clone desenvolvido como projeto do curso [Desenvolvimento Web Completo - 20 curs
 
 <img src="https://i.ibb.co/7bK5477/html-spotify.png" width="512" />
 
-[Preview](https://spotify-clone-xi-eight.vercel.app/)
+[Preview](https://ordanael-spotify.vercel.app/)
