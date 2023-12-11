@@ -2,7 +2,7 @@
 
 Clone desenvolvido como projeto do curso [Desenvolvimento Web Completo - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/).
 
-[![License](https://img.shields.io/npm/l/react)](https://github.com/ordanael/html-spotify-clone/blob/main/LICENSE) 
+[![License](https://img.shields.io/npm/l/react)](https://github.com/rockyracum/html-spotify-clone/blob/main/LICENSE) 
 
 ## Tecnologias
 
